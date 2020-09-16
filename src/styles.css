@@ -1,0 +1,17 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.active {
+  color:crimson!important;
+  font-weight: 900!important;
+  font-size: 25px;
+}
+
+.non-active {
+  color:darkcyan;
+  font-weight: 900;
+  font-size: 25px;
+  margin-right:15px;
+  text-decoration: none;
+}
